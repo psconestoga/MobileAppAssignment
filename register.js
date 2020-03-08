@@ -1,5 +1,5 @@
-require("babel-register");
-var uncompiledFile = process.argv[2];
+// require("babel-register");
+// var uncompiledFile = process.argv[2];
 
 
-require(uncompiledFile);
+// require(uncompiledFile);
